@@ -402,7 +402,7 @@ hr {
   
 .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: url('../pics/10.jpg');
+    background: url('http://data.whicdn.com/images/104095513/superthumb.jpg');
     background-size: cover;
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
